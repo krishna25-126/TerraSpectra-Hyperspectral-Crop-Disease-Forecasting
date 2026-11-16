@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+data/*.tif
+data/*.npy
+checkpoints/
+*.pt
+.env
+.DS_Store
